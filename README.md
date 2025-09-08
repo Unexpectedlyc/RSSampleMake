@@ -91,3 +91,7 @@ writeTiff(dst, im1_geotrans, im1_proj, "输出影像路径")
 1. 🌍 所有影像处理均保持原始地理信息不变
 2. 📏 相对辐射校正要求两幅影像空间分辨率和覆盖范围一致
 3. 🌈 程序支持处理多波段遥感影像
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Unexpectedlyc/RSSampleMake&type=Date)](https://www.star-history.com/#Unexpectedlyc/RSSampleMake&Date)
